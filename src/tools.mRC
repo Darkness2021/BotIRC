@@ -57,7 +57,6 @@ alias config {
 alias colorize {
   if ($isid) {
     set -l %color $color(text)
-
     if ($1 == $+($chr(38),primary,$chr(59))) set -l %color $config(theme,primary)
     elseif ($1 == $+($chr(38),secondary,$chr(59))) set -l %color $config(theme,secondary)
     elseif ($1 == $+($chr(38),success,$chr(59))) set -l %color $config(theme,success)
@@ -72,8 +71,7 @@ alias colorize {
     return $+($chr(3),%color,$chr(32),$chr(36),+,$chr(32),$2,$chr(15))
   }
   else {
-    echo -ces info * colorize: is not a command
-
+    echo -ces info * colorize: no es un comando
     halt
   }
 }
@@ -99,7 +97,7 @@ alias theme {
     return [ [ $regsubex($1,%reg, $colorize(\t,$chr(36) $+ $calc(\n + 1))) ] ] 
   }
   else {
-    echo -ces info * theme: is not a command
+    echo -ces info * theme: no es un comando
 
     halt
   }
