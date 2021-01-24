@@ -117,7 +117,7 @@ alias theme {
 alias error {
   if (!$isid) { 
     if ($config(channels,debug) == $null) { echo -ces info * $1-  }
-    else { msg %c_debug $theme([&danger;],ERROR) $1- }
+    else { msg $canal(debug) $theme([&danger;],ERROR) $1- }
 
     halt
 
