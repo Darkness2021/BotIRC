@@ -1,0 +1,163 @@
+
+Session Start: Thu Jan 28 21:07:43 2021
+Session Ident: Status Window
+-
+03[21:07] * Your main nickname is now RadioDarkness:feJsk5dhEYX6
+-
+03[21:07] * Your alternate nickname is now RadioDarkness:feJsk5dhEYX6
+-
+02[21:07] * Connecting to irc.chathispano.com (6667)
+-
+[21:07] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:07] Nickname is in use
+-
+[21:07] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:08] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:08] * Disconnected
+-
+02[21:08] * Connect retry #1 irc.chathispano.com (6667) (dns pool)
+-
+[21:08] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:08] Nickname is in use
+-
+[21:08] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:08] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:08] * Disconnected
+-
+02[21:08] * Connect retry #2 irc.chathispano.com (6667) (dns pool)
+-
+[21:08] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:08] Nickname is in use
+-
+[21:08] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:09] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:09] * Disconnected
+-
+02[21:09] * Connect retry #3 irc.chathispano.com (6667)
+-
+[21:09] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:09] Nickname is in use
+-
+[21:09] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:09] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:09] * Disconnected
+-
+02[21:10] * Connect retry #4 irc.chathispano.com (6667) (dns pool)
+-
+[21:10] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:10] Nickname is in use
+-
+[21:10] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:10] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:10] * Disconnected
+-
+02[21:10] * Connect retry #5 irc.chathispano.com (6667) (dns pool)
+-
+[21:10] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:10] Nickname is in use
+-
+[21:10] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:11] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:11] * Disconnected
+-
+02[21:11] * Connect retry #6 irc.chathispano.com (6667)
+-
+[21:11] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:11] Nickname is in use
+-
+[21:11] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:11] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:11] * Disconnected
+-
+02[21:11] * Connect retry #7 irc.chathispano.com (6667) (dns pool)
+-
+[21:11] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:11] Nickname is in use
+-
+[21:11] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:12] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:12] * Disconnected
+-
+02[21:12] * Connect retry #8 irc.chathispano.com (6667) (dns pool)
+-
+[21:12] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:12] Nickname is in use
+-
+[21:12] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:12] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:12] * Disconnected
+-
+02[21:12] * Connect retry #9 irc.chathispano.com (6667)
+-
+[21:12] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:12] Nickname is in use
+-
+[21:12] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:13] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:13] * Disconnected
+-
+02[21:13] * Connect retry #10 irc.chathispano.com (6667) (dns pool)
+-
+[21:13] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:13] Nickname is in use
+-
+[21:13] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:13] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:13] * Disconnected
+-
+02[21:13] * Connect retry #11 irc.chathispano.com (6667) (dns pool)
+-
+[21:13] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:13] Nickname is in use
+-
+[21:13] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:14] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:14] * Disconnected
+-
+02[21:14] * Connect retry #12 irc.chathispano.com (6667)
+-
+[21:14] Caps supported: away-notify batch cap-notify chghost echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify message-tags server-time 
+-
+[21:14] Nickname is in use
+-
+[21:14] Caps set: away-notify batch cap-notify chghost extended-join invite-notify message-tags server-time 
+-
+03[21:15] Closing link: (RadioDarkn@85.60.200.214) [Registration timeout]
+-
+02[21:15] * Disconnected
